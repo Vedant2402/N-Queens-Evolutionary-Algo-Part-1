@@ -17,8 +17,8 @@ The N-Queens problem involves placing N queens on an N×N chessboard such that n
 
 We'll use a Genetic Algorithm to find a solution:
 
-Import Python Libraries
-Initialize Population with Random Candidate Solutions
-Evaluate Each Candidate (Fitness Function)
-Selection, Recombination, Mutation, and Creating Next Generation
-Plot Fitness Over Generations
+1. Import Python Libraries
+2. Initialize Population with Random Candidate Solutions
+3. Evaluate Each Candidate (Fitness Function)
+4. Selection, Recombination, Mutation, and Creating Next Generation
+5. Plot Fitness Over Generations
